@@ -2,6 +2,8 @@
 
 This project was bootstraped with [Vite](https://vitejs.dev/), using [React](https://reactjs.org/), [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template. You can try the app [here](https://fcc-25-5-clock-ap.netlify.app/).
 
+Try the app [here](https://fcc-25-5-clock-ap.netlify.app/).
+
 ## Available Scripts
 
 In the project directory, you can run:
